@@ -1,4 +1,4 @@
-# Moataz Dabbour 100863820
+# Moataz Dabbour 
 # Assignment 5
 
 import random as r
